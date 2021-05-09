@@ -1,0 +1,2 @@
+# eyrc-fighting-covid
+hackathon 
